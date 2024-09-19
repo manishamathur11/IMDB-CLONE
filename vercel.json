@@ -1,0 +1,5 @@
+{
+    "rewrites": [
+      { "source": "/imdb/:path*", "destination": "/:path*" }
+    ]
+  }
